@@ -3,7 +3,7 @@
     height: auto; 
     border-radius: 50%; 
     display: block; 
-    margin: 10 auto; 
+    margin: 0 auto; 
 }
 
 body {
@@ -11,7 +11,7 @@ body {
     background-color: #fde2e4; 
     color: #5a5a5a; 
     margin: 0;
-    padding: 20px;
+    padding: 0px;
 }
 
 .profile-container {
